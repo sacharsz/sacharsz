@@ -11,6 +11,7 @@ Research intern in AI and systematic investing at Université Paris Dauphine-PSL
 
 | Project | |
 |---|---|
+| [**ECB communication and money market rates**](https://github.com/sacharsz/ecb-tone-analysis) | Replication of a 2025 Macroeconomic Dynamics paper: hawkish/dovish sentiment indices from ECB press conferences, and HAC regressions showing that the tone predicts EONIA beyond the policy rate. |
 | [**Flip 7 agent**](https://github.com/sacharsz/flip7) | An agent for a push-your-luck card game: expectiminimax search plus a game-level value table learned by approximate policy iteration. Wins 55.8% of 2,000 games against a greedy expected-score strategy. |
 | [**Relational learning on H&M sales**](https://github.com/sacharsz/relational-learning-hm-sales) | Do graph neural networks on a relational database beat a flat LightGBM? A controlled ablation shows the signal is autoregressive, not relational: the best GNN uses zero hops. Team project on RelBench. |
 | [**White blood cell classification**](https://github.com/sacharsz/white-blood-cell-classification) | 13 imbalanced classes from 28,901 microscope images. From handcrafted features to ConvNeXt-Tiny + XGBoost, validated by 5-fold stratified cross-validation (macro-F1 0.726). |
@@ -18,4 +19,4 @@ Research intern in AI and systematic investing at Université Paris Dauphine-PSL
 
 ### Tools
 
-Python (NumPy, pandas, scikit-learn, PyTorch, PyTorch Geometric, LightGBM, XGBoost), SQL, Git, LaTeX.
+Python (NumPy, pandas, statsmodels, scikit-learn, PyTorch, PyTorch Geometric, LightGBM, XGBoost, NLTK), SQL, Git, LaTeX.
