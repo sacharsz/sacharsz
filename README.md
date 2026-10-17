@@ -5,7 +5,7 @@ Research intern in AI and systematic investing at Université Paris Dauphine-PSL
 
 **Looking for a six-month off-cycle internship in trading or quantitative finance, starting February 2027.**
 
-[sacha.ryszfeld@dauphine.psl.eu](mailto:sacha.ryszfeld@dauphine.psl.eu) · [LinkedIn](https://www.linkedin.com/in/sacharyszfeld/)
+[sacha.ryszfeld@dauphine.psl.eu](mailto:sacha.ryszfeld@dauphine.psl.eu) · [LinkedIn](https://www.linkedin.com/in/sacharyszfeld/) · [Portfolio](https://sacharsz.github.io)
 
 ### Projects
 
